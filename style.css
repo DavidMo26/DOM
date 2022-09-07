@@ -1,0 +1,10 @@
+#outer-div{
+    margin: 0 auto;
+    width: 15%;
+    height: 180px;
+    background-color: rgb(219, 101, 101);
+}
+
+li{
+    padding: 2%;
+}
